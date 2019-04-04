@@ -1,1 +1,1 @@
-# myJenkinsIntegration
+# myJenkinsIntegration with GitHub
